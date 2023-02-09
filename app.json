@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.clinzhojay.calendarapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8f5ee987-f4c8-4eb8-9d66-27a1ae7f85f3"
+      }
+    },
+    "owner": "clinzhojay"
   }
 }
